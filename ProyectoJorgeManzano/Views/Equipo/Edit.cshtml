@@ -1,0 +1,59 @@
+﻿@model ProyectoJorgeManzano.Models.EquipoModelo
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EquipoModelo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id" />
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="code" class="control-label"></label>
+                <input asp-for="code" class="form-control" />
+                <span asp-validation-for="code" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="founded" class="control-label"></label>
+                <input asp-for="founded" class="form-control" />
+                <span asp-validation-for="founded" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="logo" class="control-label"></label>
+                <input asp-for="logo" class="form-control" />
+                <span asp-validation-for="logo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="paisId" class="control-label"></label>
+                <select asp-for="paisId" class="form-control" asp-items="ViewBag.paisId"></select>
+                <span asp-validation-for="paisId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="competicionesSeleccionadas" class="control-label"></label>
+                <select multiple asp-for="competicionesSeleccionadas" class="form-control" asp-items="ViewBag.competicionesSeleccionadas"></select>
+                <span asp-validation-for="competicionesSeleccionadas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

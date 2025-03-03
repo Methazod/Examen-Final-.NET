@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\models\\equipomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\models\\equipomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\views\\equipo\\equiposporpais.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\views\\equipo\\equiposporpais.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\models\\paismodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\models\\paismodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\models\\competicionequipomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\models\\competicionequipomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\models\\competicionmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\models\\competicionmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\proyectojorgemanzano\\proyectojorgemanzano\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F823B3-AA92-4441-948B-77B1DA3A741E}|ProyectoJorgeManzano\\ProyectoJorgeManzano.csproj|solutionrelative:proyectojorgemanzano\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Views\\Pais\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T09:07:50.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Controllers\\PaisController.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:06:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquiposPorPais.cshtml",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\EquiposPorPais.cshtml",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Views\\Equipo\\EquiposPorPais.cshtml",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\EquiposPorPais.cshtml",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Views\\Equipo\\EquiposPorPais.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T09:19:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Views\\Equipo\\Edit.cshtml",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\Edit.cshtml",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Views\\Equipo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T08:11:19.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Views\\Equipo\\Index.cshtml",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Views\\Equipo\\Index.cshtml",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Views\\Equipo\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:28:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Controllers\\EquipoController.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:20:12.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompeticionEquipoModelo.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\CompeticionEquipoModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Models\\CompeticionEquipoModelo.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\CompeticionEquipoModelo.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Models\\CompeticionEquipoModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:36:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompeticionModelo.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\CompeticionModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Models\\CompeticionModelo.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\CompeticionModelo.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Models\\CompeticionModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:13:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipoModelo.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\EquipoModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Models\\EquipoModelo.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\EquipoModelo.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Models\\EquipoModelo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:08:42.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaisModelo.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\PaisModelo.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Models\\PaisModelo.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\PaisModelo.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Models\\PaisModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:10:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "ProyectoJorgeManzano\\Models\\Contexto.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\ProyectoJorgeManzano\\ProyectoJorgeManzano\\Models\\Contexto.cs",
+              "RelativeToolTip": "ProyectoJorgeManzano\\Models\\Contexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:27:44.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
